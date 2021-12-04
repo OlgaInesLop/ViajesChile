@@ -2,10 +2,18 @@
     background-color: antiquewhite;
 }
 .via-presenta{
-    background-color: antiquewhite;
+    background-color:cornflowerblue;
 }
 .via-tarjetas{
-    background-color: antiquewhite;
+    background-color: black;
+    color: white;
+}
+.via-tarjetas img{
+    width: 50;
+}
+.card_body h5 p{
+    background-color: cornflowerblue;
+    color: white;
 }
 .via-formulario{
     background-color: antiquewhite;
