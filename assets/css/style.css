@@ -1,20 +1,63 @@
-.via-carrusel{
-    background-color: antiquewhite;
+body{
+    background-color: black;
+    margin: 0%;
 }
+
+.h3 {
+    background-color: black;
+    color: dodgerblue;
+}
+.bg-viajes{
+    background-color: #17A2B8;
+}
+/* .via-carrusel{
+    background-color: antiquewhite;
+} */
 .via-presenta{
-    background-color:cornflowerblue;
+    color: white;
+    text-align: center;
+}
+.via-presenta img{
+    width: 30px;
+    text-align: center;
+}
+.via-presenta ol{
+    background-color: cornflowerblue;
+    color: white;
 }
 .via-tarjetas{
     background-color: black;
     color: white;
+    text-align: center;
 }
 .via-tarjetas img{
     width: 50;
 }
-.card_body h5 p{
-    background-color: cornflowerblue;
+.via-tarjetas h5 p{
+    background-color:dodgerblue;
+    color: white;
+}
+
+.card-body{
+    background-color:dodgerblue;
     color: white;
 }
 .via-formulario{
-    background-color: antiquewhite;
+    background-color: black;
+    text-align: center;
+}
+
+.via-formulario h1{
+    background-color: black;
+    color: white;
+}
+.via-formulario form{
+    background-color: white;
+    color: black;
+}
+footer{
+    color: white;
+}
+footer a{
+    color: white;
 }
